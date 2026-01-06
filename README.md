@@ -3,7 +3,6 @@
 ![Language](https://img.shields.io/badge/language-C%2B%2B20-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Architecture](https://img.shields.io/badge/architecture-header--only-orange.svg)
-![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
 A lightweight, **header-only** linear memory allocator designed for **game engines** and **high-performance real-time systems**. It provides **O(1)** allocation time and ensures **CPU cache locality** by keeping objects in contiguous memory blocks.
 
